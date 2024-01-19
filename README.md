@@ -3,7 +3,7 @@
 - Software Engineer graduated from PUC-MG.
 - Fluent in Portuguese and English.
 - Based in Brazil.
-- Currently working at @Increment.
+- Currently working at Increment.
 
 ## Technologies
 
